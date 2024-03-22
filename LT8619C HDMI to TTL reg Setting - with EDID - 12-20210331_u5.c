@@ -187,7 +187,7 @@ void LT8619C_Config( void )
 	Audio_Output_Mode = _IIS_Output_;       // _IIS_Output_
 	//--------------------------------------// _SPDIF_Output_
 
-	Audio_Output_En = 1;                    // 1 : enable Audio Output
+	Audio_Output_En = 0;                    // 1 : enable Audio Output
 
 	//******************************************//
 
