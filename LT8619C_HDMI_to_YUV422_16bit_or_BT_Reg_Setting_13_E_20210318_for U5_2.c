@@ -36,6 +36,7 @@ u8	V_BackP	   = 0x00;
 u8	V_SyncWid  = 0x00;
 
 u32 HDMI_CLK_Cnt = 0x00000000;
+define amyone 2
 
 //************************************
 
