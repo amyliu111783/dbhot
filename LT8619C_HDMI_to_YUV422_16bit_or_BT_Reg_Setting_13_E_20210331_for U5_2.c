@@ -317,7 +317,7 @@ void LT8619C_setting( void )
 
 	//*******************************************//
 
-	YUV_Output_Mode = _BT1120_Output_;
+	YUV_Output_Mode = _BT656_Output_;
 	// _YUV422_16bit_Output_
 	// _BT1120_Output_ : HDMI to BT1120, Y/C parallel
 	// _BT1120_8bit_Output_ : HDMI to BT1120, Y/C interleave
