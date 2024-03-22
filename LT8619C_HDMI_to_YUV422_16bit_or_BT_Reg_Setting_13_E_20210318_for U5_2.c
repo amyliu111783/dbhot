@@ -37,7 +37,7 @@ u8	V_SyncWid  = 0x00;
 
 u32 HDMI_CLK_Cnt = 0x00000000;
 define amyone 2
-
+define one 1
 //************************************
 
 extern LT8619C_I2C_Write_Byte( u8 RegAddr, u8 data );                   // IIC Write operation
